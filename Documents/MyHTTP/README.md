@@ -20,7 +20,7 @@
 ## 三、有关`WokerPool`
 
 HTTP报文解析需要`WorkerPool`中的`Woker`线程进行处理，本项目中实现了一个基于放入不阻塞、取出阻塞的半阻塞任务队列的线程池来存放`Woker`线程和对应的处理任务。
-有关Woker解析HTTP请求报文的流程详见：[HTTP报文解析](./HTTPRequestParser.md)
+有关Woker解析HTTP请求报文的流程详见：[HTTP报文解析](https://github.com/Phos35/MyTinyWebServer/blob/master/Documents/MyHTTP/HTTPRequestParser.md)
 
 ### 1. 线程池一般模型
 

@@ -24,9 +24,9 @@
 
 # 三、各模块解析
 
-- 项目框架：[基本框架解析](Documents/BasicFrame/)
-- 简易网络库MyNet：[MyNet](Documents/MyNet/)
-- 基于MyNet的HTTP封装：[MyHTTP](Documnets/MyHTTP)
+- 项目框架：[基本框架解析](https://github.com/Phos35/MyTinyWebServer/tree/master/Documents/BasicFrame)
+- 简易网络库MyNet：[MyNet](https://github.com/Phos35/MyTinyWebServer/tree/master/Documents/MyNet)
+- 基于MyNet的HTTP封装：[MyHTTP](https://github.com/Phos35/MyTinyWebServer/tree/master/Documents/MyHTTP)
 
 
 
