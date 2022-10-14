@@ -6,5 +6,5 @@ CXX_FLAGS =   -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/ubuntu/WebServer/WebServer -I/home/ubuntu/WebServer/MyNet/Events -I/home/ubuntu/WebServer/MyHTTP/HTTP -I/home/ubuntu/WebServer/MyNet/Log -I/home/ubuntu/WebServer/MyHTTP/Thread -I/home/ubuntu/WebServer/Utils -I/home/ubuntu/WebServer/MyHTTP/DataBase -I/usr/include/mysql 
+CXX_INCLUDES = -I/home/ubuntu/MyTinyWebServer/WebServer -I/home/ubuntu/MyTinyWebServer/MyNet/Events -I/home/ubuntu/MyTinyWebServer/MyHTTP/HTTP -I/home/ubuntu/MyTinyWebServer/MyNet/Log -I/home/ubuntu/MyTinyWebServer/MyHTTP/Thread -I/home/ubuntu/MyTinyWebServer/Utils -I/home/ubuntu/MyTinyWebServer/MyHTTP/DataBase -I/usr/include/mysql 
 

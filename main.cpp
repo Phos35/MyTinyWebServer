@@ -14,7 +14,7 @@
 #include <sys/stat.h>
 
 // 资源根路径
-std::string resourceRoot = "/home/ubuntu/WebServer/Resource";
+std::string resourceRoot = "/home/ubuntu/MyTinyWebServer/Resource";
 
 // 解析Url，获取资源路径
 std::string parseUrl(std::string& url, std::string& path)
@@ -56,6 +56,9 @@ std::string parseUrl(std::string& url, std::string& path)
 
     if(type == "mp4")
         return "video/mp4";
+
+    if(type == "gif")
+        return "image/gif";
 
     return "NULL";
 }
