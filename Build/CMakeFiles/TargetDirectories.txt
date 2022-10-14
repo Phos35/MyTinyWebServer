@@ -1,3 +1,0 @@
-/home/ubuntu/MyTinyWebServer/Build/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/MyTinyWebServer/Build/CMakeFiles/edit_cache.dir
-/home/ubuntu/MyTinyWebServer/Build/CMakeFiles/WebServer.dir
