@@ -1,0 +1,3 @@
+/home/ubuntu/WebServer/Build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/WebServer/Build/CMakeFiles/edit_cache.dir
+/home/ubuntu/WebServer/Build/CMakeFiles/WebServer.dir
