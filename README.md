@@ -76,7 +76,7 @@
 
 ## 四、Demo演示
 
-[Demo](http://43.138.43.178:8000/image/demo.gif)
+![Demo](https://img1.imgtp.com/2023/02/23/ifGDZUY4.gif)
 
 
 
